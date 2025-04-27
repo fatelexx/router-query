@@ -1,0 +1,1 @@
+import{R as e,a as n,j as s}from"./index-CYScIXnh.js";import{u as a}from"./useSuspenseQuery-DlNnceet.js";const m=function(){const o=e.useParams().postId,{data:t}=a(n(o));return s.jsxs("div",{className:"space-y-2",children:[s.jsx("h4",{className:"text-xl font-bold underline",children:t.title}),s.jsx("div",{className:"text-sm",children:t.body})]})};export{m as component};
